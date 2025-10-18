@@ -123,3 +123,6 @@ MANUS_API_KEY=your_key
 - Monitor multiple teachers
 - Track improvement over time
 - Share best practices
+
+# You can watch the pitch here:
+[Watch on YouTube](https://www.youtube.com/watch?v=qpFbCvLBqIA)
