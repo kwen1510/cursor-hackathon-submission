@@ -1,0 +1,19 @@
+# Core dependencies
+python-dotenv>=1.0.0
+requests>=2.31.0
+
+# ElevenLabs API
+elevenlabs>=1.0.0
+
+# OpenAI (if needed for alternative transcription)
+openai>=1.0.0
+
+# Anthropic API for Claude
+anthropic>=0.18.0
+
+# Supabase client (optional, using requests for now)
+supabase>=2.0.0
+
+# Utility libraries
+pathlib>=1.0.1
+
